@@ -81,8 +81,3 @@ I’m a bodybuilding enthusiast who codes between sets at the gym. (Spot me debu
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark)](https://git.io/streak-stats)
-
-[![Omar's GitHub stats](https://github-readme-stats
