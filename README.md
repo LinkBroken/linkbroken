@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk1bWx2eXQ2d3J0Z3JmZ2J6dGQ1aGJ5Y2JtNnR6eG1hdmR5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hULJ3jWnhNxQA/giphy.gif" width="100"/>
-</div>
+
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/omerdamour">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -103,7 +101,6 @@ I’m a bodybuilding enthusiast who codes between sets at the gym. (Spot me debu
 <a href="https://github.com/linkbroken/d-blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkbroken&repo=d-blog&theme=gotham&hide_border=true" />
 </a>
-
 
 ---
 
