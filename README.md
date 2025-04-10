@@ -88,5 +88,14 @@ I’m a bodybuilding enthusiast who codes between sets at the gym. (Spot me debu
 
 ![Omer Damour](https://github-readme-stats.vercel.app/api/top-langs/?username=linkbroken&langs_count=8)
 
+<a href="https://github.com/linkbroken/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkbroken&repo=portfolio&theme=gotham&hide_border=true" />
+</a>
+
+
+<a href="https://github.com/linkbroken/d-yoga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkbroken&repo=d-yoga&theme=gotham&hide_border=true" />
+</a>
+
 ---
 
