@@ -79,5 +79,8 @@ I’m a bodybuilding enthusiast who codes between sets at the gym. (Spot me debu
 
 </p>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkbroken&hide=contribs,prs)
+
 ---
 
