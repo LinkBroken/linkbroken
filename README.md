@@ -55,7 +55,10 @@ Node.js (REST APIs, authentication, MongoDB/Mongoose)
 Fitness app UX – Bridging tech and user motivation!
 
 📫 Reach Out
+
 📧 Email: omer.mohamed2021b@gmail.com
+
+
 💼 LinkedIn: https://www.linkedin.com/in/omerdamour/
 
 😄 Pronouns
@@ -83,7 +86,7 @@ I’m a bodybuilding enthusiast who codes between sets at the gym. (Spot me debu
 ![damour's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkbroken&show_icons=true&theme=radical)
 
 
-![Omer Damour](https://github-readme-stats.vercel.app/api/top-langs/?username=linkbroken&hide_progress=true)
+![Omer Damour](https://github-readme-stats.vercel.app/api/top-langs/?username=linkbroken&langs_count=8)
 
 ---
 
