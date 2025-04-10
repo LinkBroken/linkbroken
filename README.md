@@ -7,7 +7,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt=""/>
+  <img src="[https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue](https://camo.githubusercontent.com/1a8f914ab6e60fde4c3996148833d775d872755bda03573e4953a89717b00b45/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4461726b2d446576656c6f7065723933267374796c653d666c61742d73717561726526636f6c6f723d626c7565)" alt=""/>
 </div>
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Omar Damour</h1>
 <p align="center">
