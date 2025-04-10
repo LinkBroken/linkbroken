@@ -22,15 +22,46 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I'm currently working on [Optimum Gym](https://github.com/mohammedBinSahl6/optimum-gym/) - A fitness management platform
-- 🌱 I'm currently learning GraphQL and React Native to expand my mobile development skills
-- 👯 I'm looking to collaborate on open source fitness/health tech projects
-- 🤔 I'm looking for help with advanced React Native animations
-- 💬 Ask me about React, Node.js, or fitness app development
-- 📫 How to reach me: omer.mohamed2021b@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a bodybuilding enthusiast who codes between sets at the gym!
+🔭 Current Project
+Optimum Gym – A full-stack fitness management platform built with React, Node.js, and MongoDB. Features include member tracking, workout planning, and progress analytics. Goal: Streamline gym operations with a modern, scalable solution.
 
+🌱 Learning Goals
+GraphQL (integrating with Apollo for efficient API queries)
+
+React Native (building cross-platform fitness apps)
+
+Advanced State Management (Redux Toolkit & Context API deep dive)
+
+👯 Collaboration Interests
+Passionate about open-source health/fitness tech projects! Let’s connect if you’re working on:
+
+Wearable app integrations
+
+AI/ML for fitness analytics
+
+Gamified workout platforms
+
+🤝 Seeking Help With
+React Native animations (e.g., gesture-driven UIs, micro-interactions)
+
+Performance optimization for high-traffic fitness apps
+
+💬 Ask Me About
+React (hooks, custom components, best practices)
+
+Node.js (REST APIs, authentication, MongoDB/Mongoose)
+
+Fitness app UX – Bridging tech and user motivation!
+
+📫 Reach Out
+📧 Email: omer.mohamed2021b@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/omerdamour/
+
+😄 Pronouns
+He/Him
+
+⚡ Fun Fact
+I’m a bodybuilding enthusiast who codes between sets at the gym. (Spot me debugging between deadlifts! 💻🏋️‍♂️)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
