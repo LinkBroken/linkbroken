@@ -2,17 +2,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk1bWx2eXQ2d3J0Z3JmZ2J6dGQ1aGJ5Y2JtNnR6eG1hdmR5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hULJ3jWnhNxQA/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[your-linkedin-url]">
+  <a href="https://linkedin.com/in/omerdamour">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="[your-twitter-url]">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm [Your Name]</h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Omar Damour</h1>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=nord&margin-w=9&no-frame=true" alt="Github Profile Trophy" />
 </p>
@@ -24,16 +21,16 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a [Your Profession] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I'm currently working on [current project]
-- 🌱 I'm currently learning [what you're learning]
-- 👯 I'm looking to collaborate on [type of projects]
-- 🤔 I'm looking for help with [something you need help with]
-- 💬 Ask me about [your expertise]
-- 📫 How to reach me: [your contact info]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [something interesting about you]
+- 🔭 I'm currently working on [Optimum Gym](https://github.com/mohammedBinSahl6/optimum-gym/) - A fitness management platform
+- 🌱 I'm currently learning GraphQL and React Native to expand my mobile development skills
+- 👯 I'm looking to collaborate on open source fitness/health tech projects
+- 🤔 I'm looking for help with advanced React Native animations
+- 💬 Ask me about React, Node.js, or fitness app development
+- 📫 How to reach me: omerdamour@example.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a bodybuilding enthusiast who codes between sets at the gym!
 
 ---
 
@@ -41,9 +38,13 @@ I am a [Your Profession] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-[Add more icons as needed]
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -52,13 +53,4 @@ I am a [Your Profession] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark)](https://git.io/streak-stats)
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :notebook_with_decorative_cover: Featured Projects:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=dark)](https://github.com/your-username/your-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=another-repo&theme=dark)](https://github.com/your-username/another-repo)
+[![Omar's GitHub stats](https://github-readme-stats
