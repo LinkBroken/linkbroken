@@ -11,7 +11,6 @@
 </div>
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Omar Damour</h1>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=nord&margin-w=9&no-frame=true" alt="Github Profile Trophy" />
 </p>
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
@@ -28,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👯 I'm looking to collaborate on open source fitness/health tech projects
 - 🤔 I'm looking for help with advanced React Native animations
 - 💬 Ask me about React, Node.js, or fitness app development
-- 📫 How to reach me: omerdamour@example.com
+- 📫 How to reach me: omer.mohamed2021b@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a bodybuilding enthusiast who codes between sets at the gym!
 
