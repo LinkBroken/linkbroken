@@ -82,5 +82,8 @@ I’m a bodybuilding enthusiast who codes between sets at the gym. (Spot me debu
 
 ![damour's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkbroken&show_icons=true&theme=radical)
 
+
+![Omer Damour](https://github-readme-stats.vercel.app/api/top-langs/?username=linkbroken&hide_progress=true)
+
 ---
 
