@@ -98,7 +98,7 @@ I’m a bodybuilding enthusiast who codes between sets at the gym. (Spot me debu
 </a>
 
 
-<a href="https://github.com/linkbroken/d-blog">
+<a href="https://github.com/linkbroken/D-blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linkbroken&repo=d-blog&theme=gotham&hide_border=true" />
 </a>
 
