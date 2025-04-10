@@ -30,16 +30,17 @@ GraphQL (integrating with Apollo for efficient API queries)
 
 React Native (building cross-platform fitness apps)
 
-Advanced State Management (Redux Toolkit & Context API deep dive)
 
 👯 Collaboration Interests
 Passionate about open-source health/fitness tech projects! Let’s connect if you’re working on:
 
-Wearable app integrations
+SAAS Platforms.
 
-AI/ML for fitness analytics
+Wearable app integrations.
 
-Gamified workout platforms
+AI/ML for fitness analytics.
+
+Gamified workout platforms.
 
 🤝 Seeking Help With
 React Native animations (e.g., gesture-driven UIs, micro-interactions)
@@ -80,7 +81,6 @@ I’m a bodybuilding enthusiast who codes between sets at the gym. (Spot me debu
 </p>
 
 ![damour's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkbroken&show_icons=true&theme=radical)
-![damour's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkbroken&hide=contribs,prs)
 
 ---
 
